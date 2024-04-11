@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240411-14:02 : 오늘 뭐 할까
+USER: 언제까지 해야 되는지 모르겠어
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+그렇군요, 어떤 일을 어떻게 해야하는지 잘 모르시는군요. 어떤 일을 맡았는지 좀 더 자세히 알려주실 수 있을까요? 그래야 언제까지 마치면 되는지 더 정확한 가이드를 드릴 수 있을 것 같아요. 예를 들어, 학교 과제인지, 업무인지, 혹은 개인적인 프로젝트인지 알려주시면 좋을 것 같아요. Task에 대한 정보는 정확한 일정을 짜는데 큰 도움이 됩니다. 어떤 작업을 시작하기 전에 할 일에 대한 더 많은 정보를 얻는 것이 좋아요!

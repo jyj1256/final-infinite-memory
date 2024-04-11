@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-17:29 : 오늘 내가 무슨말 했더라?
+USER: 나 어제 뭐 했지
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+저번 대화에서 당신은 "나 어제 뭐 했지"라고 물어보셨습니다. 이에 대한 제 응답은 없었습니다. 지금으로부터 하루 전인 어제와 관련된 말씀이라면, 제 기억이 없다는 점을 알려드려요. 되새겨보는 중요한 일들이 있었다면 어제 무슨 활동을 하셨는지 저에게 말해주실 수 있을까요?

@@ -1,0 +1,18 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240411-14:55 : 나 롤챔 몇 등 했게
+USER: 나 롤챔 몇 등 했다고 했지
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+전 20년에 처음 롤챔에 참가해서 많이 긴장됐었어요. 그런데 아쉽게도 우리 팀은 16강에서 탈락했어요. 그래도 많은 경험을 쌓았고, 앞으로 더 열심히 연습해서 다음 시즌에는 좋은 성적을 거두고 싶어요. 
+대화 주제를 계속해서 이어나가는 건 어떠세요? 새로운 주제로 대화를 나눠볼까요?

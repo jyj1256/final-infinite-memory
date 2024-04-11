@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240328-14:07 : 오늘 치킨을 먹었어
+USER: 나 지금 커피 먹고 있어
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+네, 알겠습니다. 치킨을 드셨다고 하셨군요! 치킨은 한국인들이 좋아하는 음식 중 하나이죠. 저도 좋아해요! 특히 치킨을 먹을 때는 매운 양념 치킨을 주로 선택하시는 편인가요? 또한, 커피를 드시고 계신다고 하셨군요. 커피는 어떤 종류를 드시는 것인가요? 아메리카노나 라떼, 또는 다른 종류의 커피를 드시나요? 커피는 저도 좋아하는 음료 중 하나인데, 특히 바닐라 라떼나 아이스 아메리카노를 좋아해요. 이런 음료를 좋아하시는 지 궁금해요. 그런데, 첫 번째 문장이 "오늘 치킨을 먹었어"이고 두 번째 문장이 "나 지금 커피 먹고 있어"라고 말씀하셨는데요, 그러면 차례대로 말씀하시는 것인가요? 아니면 상대방의 말에 대한 응답으로 "나도 어제 치킨을 먹었어"라고 이야기하고 싶었던 건가요? 저도 조금 더 자세한 설명을 듣고 싶어요. 어떻게 도와드릴까요?

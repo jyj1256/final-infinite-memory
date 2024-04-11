@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240411-14:21 : 언제까지 해야 되는지 모르겠어
+USER: 왜 그래
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+제 1차 세계대전의 일환으로 유럽은 서로가 자국의 영토로 도전하는 갈등이 심화되었습니다. 이런 갈등은 유럽의 국가들 사이에서 발생하는 주요 외교적인 문제였고, 19세기 말과 20세기 초 빠른 속도로 전개됐습니다. 국가와 맹인처럼 서로만 이익을 위해 싸우려 했던 유럽 국가들은 결국 1914년 7월 28일 유럽의 일어나는 정세의 변화를 의미하는 여러 사건으로부터 무리한 대북 전쟁으로 향하게 됩니다. 이래서야 제 1차 세계대전은 실제로 거대한 전쟁을 실시합니다. 알렉산더 덹래에는 다른 국가와 같이 전쟁에 동참하기에는 더이상 그럴 여건이 만들어진게 없다고 생각하며에 자신의 국민들의 곁으로 돌아가지 않을 수 없다라고 이야기를 한 것입니다.

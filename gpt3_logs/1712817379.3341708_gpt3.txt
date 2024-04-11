@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240409-13:57 : 나 어제 뭐 했지
+USER: 어제 문도 박사로 캐리 했어
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+어제 당신은 '문도 박사'라는 게임에서 캐리를 하셨다고 말씀하셨군요! '문도 박사'는 높은 인기를 얻고 있는 게임 중 하나로, 플레이어들은 다양한 전투 기술과 전략을 사용하여 상대 팀을 물리치는 것이 목표입니다. 어떤 전투 스타일로 캐리를 했나요? 어떤 전략을 사용하셔서 이기셨나요? 게임을 할 때 어떤 점이 가장 재밌었나요? 게임을 하는 것이 여러분에게 행복한 시간을 제공하였길 바랍니다! 다음으로 더해질 다른 주제가 있으신가요?

@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240409-15:02 : 나 지금 공부 중
+USER: 나 지금 공부 중이야
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+여러분 모두 공부하는 중이라고 들었네요! 공부를 하는 것은 정말로 훌륭한 선택이에요. 지식을 습득하고 역량을 향상시키는 동안, 능동적으로 정보를 습득하고 자신의 성장을 촉진할 수 있어요. 공부는 그런 부분에서 정말로 중요한 역할을 해주는 거죠. 다른 어떤 주제에 대해 공부하고 계신 거죠? 그 주제에 관한 더 자세한 이야기를 해보고 싶은데요. 어떤 학문 분야에 대해 공부하고 계신 건가요?

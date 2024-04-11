@@ -1,0 +1,18 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240411-14:27 : 드디어 기성이 형이 문제를 풀었어
+USER: 기승이 형은 지금 왜 기뻐하고 있을까
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+"기승이 형은 지금 왜 기뻐하고 있을까?"라는 질문에 대해 요즘 대화 내용과 최근 메시지를 분석해 봤는데요, 모씨님께서 이전 대화에서 "드디어 기성이 형이 문제를 풀었어"라고 하셨으니 그 이유로 기승이 형이 기뻐하는 것 같아요! 
+아마도 기성이 형이 문제를 푸는 것에 대해 기승이 형은 기뻐하기 때문에 기쁜 것입니다. 모씨님도 따로 더 자세하게 기승이 형에 대해 말씀해주실까요? 혹은 다른 질문이 있을까요?

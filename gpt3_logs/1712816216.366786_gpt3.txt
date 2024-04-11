@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240411-14:02 : 오늘 뭐 할까
+USER: 작년 크리스마스에 뭐였더라
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+작년 크리스마스는 12월 25일에 있었어요. 크리스마스는 전 세계적으로 기독교 신자들이 예수 그리스도의 탄생을 기념하는 날이에요. 크리스마스 이브에는 가족들이 모여서 크리스마스 트리를 꾸미고, 선물을 교환하며 즐거운 시간을 보내요. 사람들은 크리스마스의 의미를 나누고, 서로에게 사랑과 관심을 나누는 날이기도 해요. 실내에서 분위기를 내기 위해 색깔로 이쁘게 꾸민 조명들도 있어요. 또한 크리스마스 캐럴이라고 불리는 곡들을 부르기도 해요. 작년 크리스마스에는 어떤 이벤트나 행사에 참여했던 것 같나요? 제가 더 궁금해요!

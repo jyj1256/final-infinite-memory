@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240328-14:16 : 오늘은 뭘 먹을까
+USER: 오늘 뭐 할까
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+저희 가족들이 배불러서 싫어하는 아시아 요리중에 계획 하나를 생각해봤으면 좋겠네요. 베트남 요리 같은 건 어떠세요? 분명히 다들 웬만한 중식과 일본 요리보다는 경험 적은 베트남 요리일거에요. 사진 상에 보이는 것처럼, 본죄라고 불리우는 베트남 방배국을 함께 해볼까요? 은근히 얼얼함에 도전하는 척 하고 싶은 거 같아요.요리에는 소시지, 조미료, 패티가 씌운 연걸이 들어가서 맛이 굉장히 풍부해요. 오늘 시간 되시나요?

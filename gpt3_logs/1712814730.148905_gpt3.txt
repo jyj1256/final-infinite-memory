@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240409-13:57 : 나 어제 뭐 했지
+USER: 어제 롤챔 1등 했어
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+어제 롤챔에서 1등을 하셨다고 하셨군요! 축하드립니다! 롤챔에서 1등을 하다니 대단하시네요! 어떤 챔피언을 데려가셔서 이기셨나요? 플레이를 시작하기 전에 어떻게 준비하셨나요? 팀원들과의 협력이 중요하다던데 어떻게 협력하셨나요? 챔피언 선발 단계에서는 어떤 전략을 사용하셨나요? 롤챔에서 우승하신 경험이 있으신가요? 만약이 있다면 언제였고 어떤 기분이셨나요? 롤챔에서 1등을 하셔서 자신있는 플레이어라고 생각하시나요, 그 이유가 있다면 어떤 점을 꼽으실 수 있을까요? 좋은 전략을 공유하고 싶으신가요?
